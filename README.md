@@ -1,5 +1,4 @@
-- 👋 Hi, I’m MD Sifatullah Sheikh
-- 👀 I’m interested in ROBOTICS , Data Structure and Algorithms , Mathematics
-- 🌱 I’m currently Student of East West University.
+- 👋 Hi, I am MD Sifatullah Sheikh
+- 👀 Interested sectors Robotics , Data Structure and Algorithms , Mathematics , Web development.
+-  Currently i am a Student of East-West University in Bangladesh.
 - I love Mathematics .
-- Real Madrid suppoter .(HALA MADRID)
