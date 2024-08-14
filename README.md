@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifatswapnil2022&label=Profile%20views&color=0e75b6&style=flat" alt="sifatswapnil2022" /> </p>
 
-- 🌱 I’m currently learning **React JS and Node JS**
+- 🌱 I’m currently learning **Data Science,React JS and Node JS**
 
-- 💬 Ask me about **Robotics , Data Structure and Algorithms , Mathematics , Web development.**
+- 💬 Ask me about **Robotics , Data Structure and Algorithms , Mathematics , Database ,SQL.**
 
 - 📫 How to reach me **mdsifatullahsheikh@gmail.com**
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SifatSwapnil2022)](https://github.com/SifatSwapnil2022/github-readme-stats)
