@@ -10,6 +10,9 @@
 
 - 📫 How to reach me **mdsifatullahsheikh@gmail.com**
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SifatSwapnil2022)](https://github.com/SifatSwapnil2022/github-readme-stats)
+- my codeforces id   https://codeforces.com/profile/SixPackABS
+- my Tableau public id       https://public.tableau.com/app/profile/sifat.sheikh/vizzes
+- my Linkedln id     https://www.linkedin.com/in/md-sifatullah-sheikh-40a7a1238/
 
 
 <h3 align="left">Connect with me:</h3>
