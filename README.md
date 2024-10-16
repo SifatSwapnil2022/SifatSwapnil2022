@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD Sifatullah Sheikh</h1>
-<h3 align="center">Currently I am a Student of East-West University in Bangladesh.</h3>
+<h3 align="center">I am currently pursuing my studies at East-West University in Bangladesh, where I am dedicated to advancing my academic and professional goals..</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifatswapnil2022&label=Profile%20views&color=0e75b6&style=flat"  alt="sifatswapnil2022" /> </p>
