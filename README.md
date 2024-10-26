@@ -13,7 +13,8 @@
 - my codeforces id   https://codeforces.com/profile/SixPackABS
 - my Tableau public id       https://public.tableau.com/app/profile/sifat.sheikh/vizzes
 - my Linkedln id     www.linkedin.com/in/mdsifatullahsheikh
-[![Asif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sifatswapnil2022&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+<br>[![Asif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sifatswapnil2022&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h3 align="left">Connect with me:</h3>
