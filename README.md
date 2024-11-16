@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifatswapnil2022&label=Profile%20views&color=0e75b6&style=flat"  alt="sifatswapnil2022" /> </p>
 
-- 🌱 I’m currently learning **Data Science,React JS and Node JS**
+- 🌱 I’m currently learning **Machine Learning , React JS , Next JS and Node JS**
 
 - 💬 Ask me about **Robotics , Data Structure and Algorithms , Mathematics , Database ,SQL.**
 
