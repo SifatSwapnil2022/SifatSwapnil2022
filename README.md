@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning , React JS , Next JS and Node JS**
 
-- 💬 Ask me about **Robotics , Data Structure and Algorithms , Mathematics , Database ,SQL.**
+- 💬 Ask me about **Data Structure and Algorithms , Mathematics , Database ,SQL.**
 
 - 📫 How to reach me **mdsifatullahsheikh@gmail.com**
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SifatSwapnil2022)](https://github.com/SifatSwapnil2022/github-readme-stats)
