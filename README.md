@@ -34,6 +34,10 @@
   </a>
 </p>
 
+
+---
+
+# Publication : 1) Deepfake Detection with Neural Network Model
 ---
 
 ### 🌐 Online Profiles:
