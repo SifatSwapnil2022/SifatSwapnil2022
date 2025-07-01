@@ -8,8 +8,8 @@
 ---
 
 ### About Me
-- 🌱 **Currently focusing on**: Machine Learning, Artificial Intelligence, Deep Learning, Data Mining, Big Data Analysis
-- 💬 **Ask me about**: Data Structures and Algorithms, Mathematics, Database Management, SQL
+- 🌱 **Currently focusing on**: Machine Learning, Artificial Intelligence, Deep Learning, Data Mining, NLP ,LLM
+- **Area of Interests**: ML,DL,AI,NLP,LLM
 - 📫 **Reach me**: [mdsifatullahsheikh@gmail.com](mailto:mdsifatullahsheikh@gmail.com)
 
 ---
@@ -37,7 +37,7 @@
 
 ---
 
-# Publication : 1) Deepfake Detection with Neural Network Model
+# Publication : 1) AI-Powered Deepfake Detection Using CNN and Vision Transformer Architectures
 ---
 
 ### 🌐 Online Profiles:
