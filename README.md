@@ -43,7 +43,7 @@
 ### 🌐 Online Profiles:
 - **Codeforces**: [SixPackABS](https://codeforces.com/profile/SixPackABS)
 - **Tableau Public**: [Sifat Sheikh](https://public.tableau.com/app/profile/sifat.sheikh/vizzes)
-- **LinkedIn**: [Md Sifatullah Sheikh](https://www.linkedin.com/in/mdsifatullahsheikh)
+- **LinkedIn**: [Md Sifatullah Sheikh](www.linkedin.com/in/mdsifatullahsheikh)
 - **CodeChef**: [SixPackABS](https://www.codechef.com/users/sixpackabs)
 - **Kaggle**: [Md Sifatullah Sheikh](https://www.kaggle.com/mdsifatullahsheikh)
 
