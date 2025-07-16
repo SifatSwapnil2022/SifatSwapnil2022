@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MD Sifatullah Sheikh</h1>
+<h1 align="center">Hello 👋, I'm MD Sifatullah Sheikh</h1>
 <h3 align="center">
  I am currently pursuing my B.Sc. degree at East-West University, Bangladesh<br>
   🎓 Expected to graduate in December 2025<br>
