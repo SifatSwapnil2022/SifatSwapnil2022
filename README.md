@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm MD Sifatullah Sheikh</h1>
 <h3 align="center">
-  Final Year Student at East-West University, Bangladesh<br>
-  Passionate about Machine Learning, Artificial Intelligence & Data Science
+ I am currently pursuing my B.Sc. degree at East-West University, Bangladesh<br>
+  🎓 Expected to graduate in December 2025<br>
+  Passionate about Data Science and Intelligent Systems.
 </h3>
 
 <p align="center">
@@ -11,7 +12,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Final Year CS Student at East-West University
+- 🎓 Final Year CSE Student at East-West University
 - 🔭 Currently working on projects related to:
   - Machine Learning, Deep Learning, NLP, Self-Supervised Learning
 - 💡 Strong interests in:
