@@ -1,103 +1,100 @@
 <h1 align="center">Hi 👋, I'm MD Sifatullah Sheikh</h1>
-<h3 align="center">Currently pursuing my studies at East-West University (4th Year), Bangladesh, with a passion for Machine Learning, AI, and Data Science.</h3>
+<h3 align="center">
+  Final Year Student at East-West University, Bangladesh<br>
+  Passionate about Machine Learning, Artificial Intelligence & Data Science
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sifatswapnil2022&label=Profile%20views&color=0e75b6&style=flat" alt="sifatswapnil2022" />
+  <img src="https://komarev.com/ghpvc/?username=sifatswapnil2022&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### About Me
-- 🌱 **Currently focusing on**: Machine Learning, Artificial Intelligence, Deep Learning, Data Mining, NLP ,LLM
-- **Area of Interests**: ML, DL, AI, NLP, LLM
-- 📫 **Reach me**: [mdsifatullahsheikh@gmail.com](mailto:mdsifatullahsheikh@gmail.com)
+## 🧠 About Me
+- 🎓 Final Year CS Student at East-West University
+- 🔭 Currently working on projects related to:
+  - Machine Learning, Deep Learning, NLP, LLMs
+- 💡 Strong interests in:
+  - ML | DL | LLM | NLP | Data Mining
+- 📫 Reach me at: [mdsifatullahsheikh@gmail.com](mailto:mdsifatullahsheikh@gmail.com)
 
 ---
 
-### 🚀 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SifatSwapnil2022)](https://github.com/SifatSwapnil2022/github-readme-stats)
+## 📈 GitHub Stats & Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sifatswapnil2022&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SifatSwapnil2022&show_icons=true&theme=default" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SifatSwapnil2022&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sifatswapnil2022&theme=github-light" alt="Activity Graph" />
+</p>
 
 ---
 
-### 🔗 Connect with me:
-<p align="left">
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sifatswapnil2022&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 📚 Publications
+
+- **AI-Powered Deepfake Detection Using CNN and Vision Transformer Architectures**
+
+---
+
+## 🌐 Online Profiles
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mdsifatullahsheikh/)
+- 🧠 [Kaggle](https://www.kaggle.com/mdsifatullahsheikh)
+- 📊 [Tableau Public](https://public.tableau.com/app/profile/sifat.sheikh/vizzes)
+- 🧮 [Codeforces](https://codeforces.com/profile/SixPackABS)
+- 🔢 [CodeChef](https://www.codechef.com/users/sixpackabs)
+- 💻 [LeetCode](https://www.leetcode.com/ewu-sifatswapnil)
+
+---
+
+## 🔗 Let's Connect!
+
+<p align="center">
   <a href="https://linkedin.com/in/md-sifatullah-sheikh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-sifatullah-sheikh" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"/>
   </a>
   <a href="https://codeforces.com/profile/sixpackabs" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sixpackabs" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" alt="Codeforces" height="30" width="30"/>
   </a>
   <a href="https://www.leetcode.com/ewu-sifatswapnil" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ewu-sifatswapnil" height="30" width="40" />
-  </a>
-</p>
-
-
----
-
-# Publication : 1) AI-Powered Deepfake Detection Using CNN and Vision Transformer Architectures
----
-
-### 🌐 Online Profiles:
-- **Codeforces**: [SixPackABS](https://codeforces.com/profile/SixPackABS)
-- **Tableau Public**: [Sifat Sheikh](https://public.tableau.com/app/profile/sifat.sheikh/vizzes)
-- **LinkedIn**: [Md Sifatullah Sheikh](https://www.linkedin.com/in/mdsifatullahsheikh/)
-- **CodeChef**: [SixPackABS](https://www.codechef.com/users/sixpackabs)
-- **Kaggle**: [Md Sifatullah Sheikh](https://www.kaggle.com/mdsifatullahsheikh)
-
----
-
-### 🔥 GitHub Streak:
-![](https://github-readme-streak-stats.herokuapp.com/?user=SifatSwapnil2022&theme=radical&hide_border=false)
-
----
-
-### 🛠️ Languages and Tools:
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="LeetCode" height="30" width="30"/>
   </a>
 </p>
 
 ---
 
-### 📊 Most Used Languages:
+## 🎨 Just Me in a GIF
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sifatswapnil2022&show_icons=true&locale=en&layout=compact" alt="sifatswapnil2022" />
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me" width="180" />
 </p>
 
 ---
 
-### 🎨 About Me GIF:
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-
----
-
--- Feel free to reach out to me for any questions or collaborations ! 
-
+> ⚡ Feel free to reach out for questions, research collaboration, or ML discussions!
