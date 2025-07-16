@@ -13,7 +13,7 @@
 ## 🧠 About Me
 - 🎓 Final Year CS Student at East-West University
 - 🔭 Currently working on projects related to:
-  - Machine Learning, Deep Learning, NLP, LLMs
+  - Machine Learning, Deep Learning, NLP, Self-Supervised Learning
 - 💡 Strong interests in:
   - ML | DL | LLM | NLP | Data Mining
 - 📫 Reach me at: [mdsifatullahsheikh@gmail.com](mailto:mdsifatullahsheikh@gmail.com)
