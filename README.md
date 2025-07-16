@@ -16,6 +16,7 @@
   - Machine Learning, Deep Learning, NLP, Self-Supervised Learning
 - 💡 Strong interests in:
   - ML | DL | LLM | NLP | Data Mining
+- ⚽ Love to watch football, support **Real Madrid**, and play **FIFA/FC** games
 - 📫 Reach me at: [mdsifatullahsheikh@gmail.com](mailto:mdsifatullahsheikh@gmail.com)
 
 ---
