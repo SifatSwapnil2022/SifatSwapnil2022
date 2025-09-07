@@ -58,12 +58,6 @@
 
 ---
 
-## 📚 Publications
-
-- **AI-Powered Deepfake Detection Using CNN and Vision Transformer Architectures**
-
----
-
 ## 🌐 Online Profiles
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mdsifatullahsheikh/)
