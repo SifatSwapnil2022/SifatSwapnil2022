@@ -53,8 +53,7 @@
 - 💼 **LinkedIn:** https://www.linkedin.com/in/mdsifatullahsheikh  
 - 🧠 **Kaggle:** https://www.kaggle.com/mdsifatullahsheikh  
 - 📊 **Tableau Public:** https://public.tableau.com/app/profile/sifat.sheikh/vizzes  
-- 🚀 **Codeforces:** https://codeforces.com/profile/SixPackABS  
- - 💻 **LeetCode:** https://www.leetcode.com/ewu-sifatswapnil  
+- 💻 **LeetCode:** https://www.leetcode.com/ewu-sifatswapnil  
 
 ---
 
