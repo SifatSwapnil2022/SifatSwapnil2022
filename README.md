@@ -1,11 +1,7 @@
-<h1 align="center">👋 Greetings! I'm MD Sifatullah Sheikh</h1>
+<h1 align="center">👋 A Warm Welcome! Thank you for visiting my GitHub — I am Sifat</h1>
 
-<h3 align="center">
-  B.Sc. in Computer Science & Engineering (2022–2025) <br>
-  East West University, Bangladesh <br>
-  🎓 Graduated in December 2025 <br>
-  Passionate about Data Science, AI, and Intelligent Systems
-</h3>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sifatswapnil2022&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -17,7 +13,7 @@
 
 - 🎓 CSE Graduate from East West University  
 - 🔭 Currently exploring and building projects in:
-  - Machine Learning, Deep Learning, NLP, Self-Supervised Learning  
+  - Machine Learning, LLMs, Computer Vision, NLP, Self-Supervised Learning  
 - 💡 Strong interests in:
   - ML • DL • LLM • NLP • Data Mining  
 - ⚽ Football lover — **Real Madrid** fan & FIFA/FC gamer  
