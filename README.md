@@ -15,7 +15,7 @@
 - 🔭 Currently exploring and building projects in:
   - Machine Learning, LLMs, Computer Vision, NLP, Self-Supervised Learning  
 - 💡 Strong interests in:
-  - ML • DL • LLM • NLP • Data Mining  
+  - ML • DL • LLMs • NLP • Data Mining  
 - ⚽ Football lover — **Real Madrid** fan & FIFA/FC gamer  
 - 📫 Reach me at: **mdsifatullahsheikh@gmail.com**
 
