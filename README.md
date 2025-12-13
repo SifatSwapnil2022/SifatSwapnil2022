@@ -8,18 +8,33 @@
 </p>
 
 ---
+## 🚀 Professional Summary
 
-## 🧠 About Me
+I am a Computer Science & Engineering graduate from East West University with a strong focus on Artificial Intelligence, Machine Learning, and Large Language Models. I enjoy building end-to-end AI systems, conducting applied research, and translating complex models into real-world, production-ready solutions.
 
-- 🎓 CSE Graduate from East West University  
-- 🔭 Currently exploring and building projects in:
-  - Machine Learning, LLMs, Computer Vision, NLP, Self-Supervised Learning  
-- 💡 Strong interests in:
-  - ML • DL • LLMs • NLP • Data Mining  
-- ⚽ Football lover — **Real Madrid** fan & FIFA/FC gamer  
-- 📫 Reach me at: **mdsifatullahsheikh@gmail.com**
+I am actively seeking Job or Research opportunities in AI, ML, Data Science, and Software Engineering, where I can contribute, learn, and grow with impactful teams.
 
 ---
+
+---
+## 🧠 Core Expertise
+
+Artificial Intelligence & Machine Learning
+
+Deep Learning & Neural Networks
+
+Large Language Models (LLMs)
+
+Natural Language Processing (NLP)
+
+Computer Vision
+
+Data Analysis & Data Mining
+
+Model Training, Evaluation & Optimization
+
+---
+
 
 ## 📈 GitHub Stats & Activity
 <p align="center">
@@ -44,16 +59,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
 </p>
 
----
+
 
 ---
 
-## 🌐 Online Profiles
+## 🌐 Online Presence
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/mdsifatullahsheikh  
-- 🧠 **Kaggle:** https://www.kaggle.com/mdsifatullahsheikh  
-- 📊 **Tableau Public:** https://public.tableau.com/app/profile/sifat.sheikh/vizzes  
-- 💻 **LeetCode:** https://www.leetcode.com/ewu-sifatswapnil  
+💼 LinkedIn: https://www.linkedin.com/in/mdsifatullahsheikh
+
+🧠 Kaggle: https://www.kaggle.com/mdsifatullahsheikh
+
+📊 Tableau Public: https://public.tableau.com/app/profile/sifat.sheikh/vizzes
+
+💻 LeetCode: https://www.leetcode.com/ewu-sifatswapnil
 
 ---
 
@@ -70,6 +88,17 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" height="30" width="30"/>
   </a>
 </p>
+
+
+
+---
+## 🎯 Beyond Tech
+
+⚽ Football enthusiast — Real Madrid supporter
+
+🎮 FIFA / FC gamer
+
+📚 Curious learner with a research mindset
 
 ---
 
