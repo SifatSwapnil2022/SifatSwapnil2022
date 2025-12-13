@@ -8,7 +8,7 @@
 </p>
 
 
-## 🚀 Professional Summary
+## 🚀 Summary
 
 I am a Computer Science & Engineering graduate from East West University with a strong focus on Artificial Intelligence, Machine Learning, and Large Language Models. I enjoy building end-to-end AI systems, conducting applied research, and translating complex models into real-world, production-ready solutions.
 
