@@ -14,7 +14,7 @@ I am a Computer Science & Engineering graduate from East West University with a 
 
 I am actively seeking Job or Research opportunities in AI, ML, Data Science, and Software Engineering, where I can contribute, learn, and grow with impactful teams.
 
----
+
 
 ---
 ## 🧠 Core Expertise
