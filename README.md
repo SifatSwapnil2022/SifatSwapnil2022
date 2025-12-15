@@ -98,7 +98,7 @@ Model Training, Evaluation & Optimization
 
 🎮 FIFA / FC gamer
 
-📚 Curious learner with a research mindset
+📚 Try to learn from others
 
 ---
 
