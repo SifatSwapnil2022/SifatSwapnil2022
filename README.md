@@ -1,433 +1,502 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Md Sifatullah Sheikh — Machine Learning Engineer and Researcher" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:163B3B,75:1D7A70,100:E5533D&height=210&section=header&text=Md%20Sifatullah%20Sheikh&fontSize=42&fontColor=FFFFFF&fontAlignY=37&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Researcher&descSize=17&descAlignY=58&animation=fadeIn" alt="Md Sifatullah Sheikh"/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=24C8B1&center=true&vCenter=true&width=850&lines=Machine+Learning+%26+Computer+Vision;Deep+Learning+%26+Explainable+AI;Research+%7C+Engineering+%7C+Experimentation" alt="Typing SVG"/>
+</a>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/mdsifatullahsheikh">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=7m3g1cEAAAAJ">
-  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"/>
 </a>
+
 <a href="mailto:mdsifatullahsheikh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-E5533D?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/SifatSwapnil2022?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-141414?style=flat-square&logo=github&logoColor=white" alt="Repositories"/>
+<img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-<br/>
+---
 
-<table>
-<tr>
-<td width="58%" valign="top">
+## `01` — About
 
-01  Profile
-
-I am a Computer Science & Engineering graduate working in machine learning engineering and applied AI research.
-
-My work is centered around computer vision, multimodal learning, explainable AI, and efficient intelligent systems — from research experiments and model evaluation to usable applications.
-
+```yaml
 name: Md Sifatullah Sheikh
 role: Machine Learning Engineer
 location: Dhaka, Bangladesh
 
-focus:
-  - Computer Vision
+education:
+  degree: B.Sc. in Computer Science & Engineering
+  university: East West University
+  major: Data Science & Intelligent Systems
+
+interests:
   - Machine Learning
+  - Computer Vision
+  - Deep Learning
   - Multimodal Learning
   - Explainable AI
   - Robotics & Intelligent Systems
+```
 
-</td>
+I am a Computer Science & Engineering graduate working in **machine learning engineering and applied AI research**.
 
-<td width="42%" valign="top">
+My current work involves data preprocessing, experimentation, model development, validation, performance analysis, and optimization. My research interests are mainly around **computer vision, deep learning, multimodal systems, and explainable AI**.
 
-NOW
+---
 
-engineering
-├─ model development
-├─ preprocessing
-├─ feature engineering
-├─ validation
-└─ optimization
-
-research
-├─ computer vision
-├─ deep learning
-├─ multimodal systems
-└─ trustworthy AI
-
-Current direction:
-building stronger ML systems while continuing research in visual intelligence and intelligent systems.
-
-</td>
-</tr>
-</table>
-
-<img src="./assets/section-divider.svg" width="100%" alt="" />
-
-02  Research shelf
+## `02` — Current Focus
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-DeFaX
+### ⚙️ Engineering
 
-Cross-Attention Fusion for Deepfake Detection
-
-A research framework for detecting manipulated and AI-generated facial content using cross-attention fusion and visual explainability.
-
-Published in IEEE Access
-
-Deep Learning Vision Transformer Grad-CAM LIME
-
-<a href="https://ieeexplore.ieee.org/abstract/document/11303744">
-  <b>Publication ↗</b>
-</a>
+```text
+Data Preparation
+      ↓
+Feature Engineering
+      ↓
+Model Development
+      ↓
+Validation
+      ↓
+Performance Analysis
+      ↓
+Optimization
+```
 
 </td>
 
 <td width="50%" valign="top">
 
-Medicinal Plant Vision
+### 🔬 Research
 
-Image Recognition + Explainable AI
-
-Deep-learning and transformer-based research for medicinal plant identification, including visual explanation and a Bangladesh-focused leaf image dataset.
-
-Computer Vision Transformer Dataset XAI
-
-<a href="https://doi.org/10.17632/9tdc9gbtgb.2">
-  <b>Dataset ↗</b>
-</a>
+```text
+Computer Vision
+      │
+      ├── Deep Learning
+      ├── Vision Transformers
+      ├── Multimodal Learning
+      └── Explainable AI
+```
 
 </td>
+
 </tr>
 </table>
+
+---
+
+## `03` — Research
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 DeFaX
+
+**Cross-Attention Fusion for Deepfake Detection**
+
+Research on detecting AI-generated and manipulated facial images using deep-learning models with visual explainability.
+
+`CNN` `Vision Transformer` `Cross-Attention` `Grad-CAM` `LIME`
+
+<br/>
+
+**Published in IEEE Access**
+
+<a href="https://ieeexplore.ieee.org/abstract/document/11303744">
+<img src="https://img.shields.io/badge/View%20Publication-IEEE-00629B?style=flat-square&logo=ieee&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌿 Medicinal Plant Vision
+
+**Medicinal Plant Recognition & Explainability**
+
+Research using deep-learning and transformer-based models for medicinal plant identification from leaf images.
+
+The work also includes a Bangladesh-focused medicinal plant image dataset.
+
+`Computer Vision` `CNN` `ViT` `Dataset` `XAI`
+
+<br/>
+
+<a href="https://doi.org/10.17632/9tdc9gbtgb.2">
+<img src="https://img.shields.io/badge/View%20Dataset-Mendeley-A61D24?style=flat-square"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 <details>
 <summary><b>Research interests</b></summary>
 
 <br/>
 
-Area
-
-What interests me
-
-Computer Vision
-
-robust visual understanding across images and video
-
-Multimodal Learning
-
-combining visual and language representations
-
-Explainable AI
-
-understanding what drives model decisions
-
-Robotics / Embodied AI
-
-perception and reasoning for autonomous agents
-
-Efficient ML
-
-models that remain practical under compute constraints
+| Area                   | Interest                                    |
+| ---------------------- | ------------------------------------------- |
+| Computer Vision        | Image and video understanding               |
+| Deep Learning          | Neural networks and representation learning |
+| Multimodal Learning    | Combining visual and language information   |
+| Explainable AI         | Understanding model predictions             |
+| Efficient ML           | Reducing computational requirements         |
+| Robotics / Embodied AI | Perception and intelligent decision-making  |
 
 </details>
 
 <br/>
 
-Research profile: Google Scholar
+<div align="center">
 
-<img src="./assets/section-divider.svg" width="100%" alt="" />
-
-03  Selected systems
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🧠 DeFaX
-
-Deepfake Detection Research
-
-Cross-attention based fusion with explainability support for AI-generated and manipulated face detection.
-
-PyTorch CNN ViT Grad-CAM LIME
-
-</td>
-<td width="50%" valign="top">
-
-🌿 MediLeafNET
-
-Medicinal Plant Recognition
-
-Vision research combining deep learning and transformer-based modeling for medicinal plant identification.
-
-CNN ViT BERT Explainable AI
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-🩺 SkinCare AI
-
-Vision + LLM Application
-
-Computer-vision pipeline combining detection and classification with an LLM-assisted recommendation layer.
-
-YOLOv8 ResNet50 EfficientNet FastAPI
-
-</td>
-<td width="50%" valign="top">
-
-📐 NSSLDepth
-
-Monocular Depth Estimation
-
-Lightweight self-supervised monocular depth research designed around efficient edge/mobile inference.
-
-PyTorch MobileNetV2 Self-Supervised Learning
-
-</td>
-</tr>
-</table>
-
-<div align="right">
-
-Browse all repositories →
+<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=7m3g1cEAAAAJ">
+<img src="https://img.shields.io/badge/Google%20Scholar-Research%20Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+</a>
 
 </div>
 
-<img src="./assets/section-divider.svg" width="100%" alt="" />
+---
 
-04  Engineering stack
+## `04` — Selected Projects
+
+<table>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### 🧠 DeFaX
+
+**Deepfake Detection**
+
+Cross-attention based deepfake detection framework with explainability support.
+
+**Tools**
+
+`PyTorch`
+`CNN`
+`ViT`
+`Grad-CAM`
+`LIME`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌿 MediLeafNET
+
+**Medicinal Plant Recognition**
+
+Computer-vision research for identifying medicinal plants using deep-learning and transformer models.
+
+**Tools**
+
+`CNN`
+`Vision Transformer`
+`BERT`
+`Explainable AI`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🩺 SkinCare AI
+
+**Computer Vision + LLM**
+
+Image-analysis system combining detection, classification, and an LLM-assisted recommendation component.
+
+**Tools**
+
+`YOLOv8`
+`ResNet50`
+`EfficientNet`
+`FastAPI`
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,java,cpp,c,js,react,fastapi,mysql,git,docker,vscode&perline=8" alt="Technology stack" />
+<a href="https://github.com/SifatSwapnil2022?tab=repositories">
+<img src="https://img.shields.io/badge/Browse%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## `05` — Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,java,cpp,c,js,react,fastapi,mysql,docker,git,vscode&perline=8" alt="Technology Stack"/>
 
 </div>
 
 <br/>
 
 <table>
+
 <tr>
+
 <td width="25%" valign="top">
 
-ML / Vision
+### ML / Vision
 
-PyTorch
-TensorFlow
-scikit-learn
-OpenCV
-Keras
+* PyTorch
+* TensorFlow
+* Keras
+* scikit-learn
+* OpenCV
+* YOLO
+* Transformers
 
 </td>
+
 <td width="25%" valign="top">
 
-Data
+### Data
 
-NumPy
-Pandas
-Matplotlib
-Jupyter
-Data Mining
+* NumPy
+* Pandas
+* Matplotlib
+* Jupyter
+* Data Mining
+* Feature Engineering
 
 </td>
+
 <td width="25%" valign="top">
 
-Engineering
+### Engineering
 
-FastAPI
-React
-Docker
-Git
-REST APIs
+* FastAPI
+* REST APIs
+* React
+* Docker
+* Git
+* GitHub
 
 </td>
+
 <td width="25%" valign="top">
 
-Languages
+### Languages
 
-Python
-C / C++
-Java
-JavaScript
-SQL
+* Python
+* C
+* C++
+* Java
+* JavaScript
+* SQL
 
 </td>
+
 </tr>
+
 </table>
 
-<img src="./assets/section-divider.svg" width="100%" alt="" />
+---
 
-05  How I approach ML work
+## `06` — ML Workflow
 
+```mermaid
 flowchart LR
-    A[Problem] --> B[Baseline]
-    B --> C[Data + Experiments]
-    C --> D[Evaluation]
-    D --> E[Failure Analysis]
-    E --> F[Explainability]
-    F --> G[Usable System]
+    A[Problem] --> B[Data]
+    B --> C[Baseline]
+    C --> D[Experiments]
+    D --> E[Evaluation]
+    E --> F[Failure Analysis]
+    F --> G[Explainability]
+    G --> H[Optimization]
+```
 
-I care less about one impressive metric
-and more about whether the system is:
+For ML projects, I generally focus on:
 
-  reproducible
-  ├─ evaluated properly
-  ├─ understandable
-  ├─ efficient enough for its setting
-  └─ useful outside the notebook
+```text
+Problem Understanding
+├── Data preparation
+├── Baseline development
+├── Controlled experiments
+├── Model evaluation
+├── Error / failure analysis
+├── Explainability
+└── Optimization
+```
 
-<img src="./assets/section-divider.svg" width="100%" alt="" />
+---
 
-06  Experience
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-Machine Learning Engineer
-
-Syntax Solution Limited
-
-Model preprocessing, feature engineering, validation, performance analysis, and optimization.
-
-</td>
-<td width="33%" valign="top">
-
-Research Assistant
-
-East West University
-
-Computer-vision and deep-learning research, including peer-reviewed IEEE publications.
-
-</td>
-<td width="33%" valign="top">
-
-IT & Operations Intern
-
-Banglalink
-
-Reporting, documentation, records/assets, and technical support.
-
-</td>
-</tr>
-</table>
-
-<img src="./assets/section-divider.svg" width="100%" alt="" />
-
-07  Education
+## `07` — Experience
 
 <table>
+
 <tr>
-<td width="15%" align="center">
 
-2025
+<td width="33%" valign="top">
+
+### 💻 Machine Learning Engineer
+
+**Syntax Solution Limited**
+
+Working with:
+
+* Data preprocessing
+* Feature engineering
+* Model validation
+* Performance analysis
+* Model optimization
 
 </td>
-<td width="85%">
 
-B.Sc. in Computer Science & Engineering
+<td width="33%" valign="top">
 
-East West University — Dhaka, Bangladesh
+### 🔬 Research Assistant
 
-Data Science and Intelligent Systems · CGPA 3.70 / 4.00
+**East West University**
+
+Worked on:
+
+* Computer vision
+* Deep learning
+* Deepfake detection
+* Model evaluation
+* Research experiments
+* Academic publications
 
 </td>
+
+<td width="33%" valign="top">
+
+### 📡 IT & Operations Intern
+
+**Banglalink**
+
+Worked with:
+
+* Technical documentation
+* Reports
+* Records and assets
+* Hardware/software support
+* Basic troubleshooting
+
+</td>
+
 </tr>
+
 </table>
 
-<img src="./assets/section-divider.svg" width="100%" alt="" />
+---
 
-08  GitHub activity
+## `08` — Education
+
+<table>
+
+<tr>
+
+<td width="18%" align="center">
+
+### 🎓
+
+**2025**
+
+</td>
+
+<td width="82%">
+
+### B.Sc. in Computer Science & Engineering
+
+**East West University**
+Dhaka, Bangladesh
+
+**Major:** Data Science and Intelligent Systems
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## `09` — Interests
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SifatSwapnil2022&show_icons=true&hide_border=true&bg_color=00000000&title_color=E5533D&text_color=716F69&icon_color=1D7A70&ring_color=E5533D" alt="GitHub statistics"/>
+`Machine Learning`
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SifatSwapnil2022&layout=compact&hide_border=true&bg_color=00000000&title_color=E5533D&text_color=716F69" alt="Top languages"/>
+`Computer Vision`
+
+`Deep Learning`
+
+`Vision Transformers`
+
+`Multimodal AI`
+
+`Explainable AI`
+
+`Robotics`
+
+`Intelligent Systems`
 
 </div>
 
-<br/>
+---
+
+## `10` — Connect
 
 <div align="center">
 
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=SifatSwapnil2022&bg_color=00000000&color=716F69&line=E5533D&point=1D7A70&area=true&area_color=E5533D&hide_border=true" alt="GitHub activity graph"/>
+<a href="https://www.linkedin.com/in/mdsifatullahsheikh">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=7m3g1cEAAAAJ">
+<img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+</a>
 
-<details>
-<summary><b>More GitHub metrics</b></summary>
+<a href="mailto:mdsifatullahsheikh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SifatSwapnil2022&hide_border=true&background=00000000&ring=E5533D&fire=F0A54A&currStreakLabel=1D7A70&sideLabels=716F69&dates=8C8982" alt="GitHub streak"/>
-
-</div>
-
-</details>
-
-<img src="./assets/section-divider.svg" width="100%" alt="" />
-
-09  Connect
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-LinkedIn
-
-Open profile ↗
-
-</td>
-<td width="25%" align="center">
-
-Google Scholar
-
-Research profile ↗
-
-</td>
-<td width="25%" align="center">
-
-GitHub
-
-Repositories ↗
-
-</td>
-<td width="25%" align="center">
-
-Email
-
-Send email ↗
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <sub>
-Computer Vision · Machine Learning · Research · Intelligent Systems
+Machine Learning · Computer Vision · Deep Learning · Research
 </sub>
 
 <br/><br/>
 
-<b>mdsifatullahsheikh@gmail.com</b>
+**[mdsifatullahsheikh@gmail.com](mailto:mdsifatullahsheikh@gmail.com)**
 
 </div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E5533D,50:1D7A70,100:0D1117&height=110&section=footer"/>
