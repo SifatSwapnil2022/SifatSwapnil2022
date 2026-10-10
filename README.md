@@ -1,502 +1,70 @@
-<div align="center">
+# Md Sifatullah Sheikh
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:163B3B,75:1D7A70,100:E5533D&height=210&section=header&text=Md%20Sifatullah%20Sheikh&fontSize=42&fontColor=FFFFFF&fontAlignY=37&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Researcher&descSize=17&descAlignY=58&animation=fadeIn" alt="Md Sifatullah Sheikh"/>
+ML Engineer Intern at Syntax Solution Limited · Computer vision and trustworthy AI research · Dhaka, Bangladesh
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=24C8B1&center=true&vCenter=true&width=850&lines=Machine+Learning+%26+Computer+Vision;Deep+Learning+%26+Explainable+AI;Research+%7C+Engineering+%7C+Experimentation" alt="Typing SVG"/>
-</a>
+[![Website](https://img.shields.io/badge/Website-Portfolio-E5533D?style=flat-square)](https://mywebsite-j7mf.onrender.com/#/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&user=7m3g1cEAAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/mdsifatullahsheikh)
+[![Email](https://img.shields.io/badge/Email-mdsifatullahsheikh%40gmail.com-1D7A70?style=flat-square)](mailto:mdsifatullahsheikh@gmail.com)
 
-<br/>
+I am a Computer Science and Engineering graduate of East West University. My research so far is on detecting AI-generated faces and showing what the detector bases its decision on, and on identifying medicinal plants from leaf images. At work I prepare data, train and validate models on real-world datasets, and run experiments to compare them.
 
-<a href="https://www.linkedin.com/in/mdsifatullahsheikh">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
+I am applying to PhD programs for Fall 2027.
 
-<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=7m3g1cEAAAAJ">
-<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"/>
-</a>
+## Research interests
 
-<a href="mailto:mdsifatullahsheikh@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+Computer Vision · Machine Learning · Robotics · Trustworthy AI · Human-Computer Interaction
 
-<a href="https://github.com/SifatSwapnil2022?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
+## Publications
 
-</div>
+- **DeFaX: A Cross-Attention Fusion Framework for Robust and Explainable Deepfake Detection**<br>
+  Md Al-Imran, **Md Sifatullah Sheikh**, Urmi Kirtonia, Nuzath Tabassum Arthi, Shamim Ripon<br>
+  *IEEE Access*, 2025 · [Paper](https://ieeexplore.ieee.org/abstract/document/11303744) · [Code](https://github.com/SifatSwapnil2022/Journal_DefaX_codes)
 
----
+- **AI-Powered Deepfake Detection Using CNN and Vision Transformer Architectures**<br>
+  **Md Sifatullah Sheikh**, Urmi Kirtonia, Nuzath Tabassum Arthi, Md Al-Imran<br>
+  *IEEE IBDAP*, 2025 · [Paper](https://ieeexplore.ieee.org/abstract/document/11145852) · [Code](https://github.com/SifatSwapnil2022/conf_AI-Powered_Deepfake_Detection_codes)
 
-## `01` — About
+- **Medicinal Plant Leaf Image Dataset of 13 Species Collected in Bangladesh**<br>
+  Momena Khatun Zinia, Mahmudul Haque Sakib, **Md Sifatullah Sheikh**, Urmi Kirtonia, Bashirul Islam, Md Nawab Yousuf Ali<br>
+  Data paper under review at *Scientific Data* · [Dataset on Mendeley Data](https://doi.org/10.17632/9tdc9gbtgb.2)
 
-```yaml
-name: Md Sifatullah Sheikh
-role: Machine Learning Engineer
-location: Dhaka, Bangladesh
+## Selected projects
 
-education:
-  degree: B.Sc. in Computer Science & Engineering
-  university: East West University
-  major: Data Science & Intelligent Systems
+| Project | What it does | Built with |
+|---|---|---|
+| **DeFaX**<br>[Code](https://github.com/SifatSwapnil2022/Journal_DefaX_codes) · [Demo app](https://github.com/SifatSwapnil2022/DefaX) | Detects AI-generated faces by joining a Swin Transformer and an EfficientNet with cross-attention. Reaches 99.80% accuracy on the 140K Real and Fake Faces test set, with Grad-CAM and LIME explanations. | PyTorch, timm, Grad-CAM, LIME, Flask |
+| **MediLeafNET**<br>[Code](https://github.com/SifatSwapnil2022/MediLeafNET) | My undergraduate thesis. Identifies medicinal plants from leaf photos with a Vision Transformer and returns notes on their traditional use from a text model. | PyTorch, ViT, BERT, Gradio |
+| **SkinCare AI**<br>[Code](https://github.com/SifatSwapnil2022/SkinCareAI) | Finds skin lesions with YOLOv8, classifies them with an ensemble of three CNNs, and writes a plain-language summary with an LLM. A learning project, not a medical tool. | YOLOv8, TensorFlow, FastAPI, Streamlit, Docker |
+| **Bazario**<br>[Code](https://github.com/SifatSwapnil2022/bazario-A-multi-tenant-Ecommerce-Platform) · [Site](https://bazario.ltd/) | A multi-vendor e-commerce platform where each seller runs a store on their own subdomain. | Next.js, TypeScript, Tailwind CSS |
+| **Portfolio site**<br>[Code](https://github.com/SifatSwapnil2022/myWebsite) · [Site](https://mywebsite-j7mf.onrender.com/#/) | My academic website. | React, TypeScript, Vite, Tailwind CSS |
 
-interests:
-  - Machine Learning
-  - Computer Vision
-  - Deep Learning
-  - Multimodal Learning
-  - Explainable AI
-  - Robotics & Intelligent Systems
-```
+## Experience
 
-I am a Computer Science & Engineering graduate working in **machine learning engineering and applied AI research**.
+| Role | Organization | Period |
+|---|---|---|
+| ML Engineer Intern | Syntax Solution Limited | Aug 2026 – present |
+| Intern, IT and Operations | Banglalink | Feb 2026 – May 2026 |
+| Research Assistant | East West University | Dec 2024 – Dec 2025 |
 
-My current work involves data preprocessing, experimentation, model development, validation, performance analysis, and optimization. My research interests are mainly around **computer vision, deep learning, multimodal systems, and explainable AI**.
+## Education
 
----
+**B.Sc. in Computer Science and Engineering**, East West University, Dhaka (2025)<br>
+Major in Data Science and Intelligent Systems
 
-## `02` — Current Focus
+- Dean's List Scholarship for three consecutive semesters
+- 3rd place, IT Olympiad, National Robo-Fest 2024
+- Finalist, National ICT Olympiad Bangladesh 2026
 
-<table>
-<tr>
+## Tools
 
-<td width="50%" valign="top">
+| | |
+|---|---|
+| Machine learning | PyTorch, TensorFlow, Keras, scikit-learn, OpenCV, YOLO, Hugging Face Transformers |
+| Data | NumPy, Pandas, Matplotlib, Jupyter |
+| Engineering | FastAPI, React, Docker, Git |
+| Languages | Python, C, C++, Java, JavaScript, TypeScript, SQL |
 
-### ⚙️ Engineering
+## Contact
 
-```text
-Data Preparation
-      ↓
-Feature Engineering
-      ↓
-Model Development
-      ↓
-Validation
-      ↓
-Performance Analysis
-      ↓
-Optimization
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔬 Research
-
-```text
-Computer Vision
-      │
-      ├── Deep Learning
-      ├── Vision Transformers
-      ├── Multimodal Learning
-      └── Explainable AI
-```
-
-</td>
-
-</tr>
-</table>
-
----
-
-## `03` — Research
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 DeFaX
-
-**Cross-Attention Fusion for Deepfake Detection**
-
-Research on detecting AI-generated and manipulated facial images using deep-learning models with visual explainability.
-
-`CNN` `Vision Transformer` `Cross-Attention` `Grad-CAM` `LIME`
-
-<br/>
-
-**Published in IEEE Access**
-
-<a href="https://ieeexplore.ieee.org/abstract/document/11303744">
-<img src="https://img.shields.io/badge/View%20Publication-IEEE-00629B?style=flat-square&logo=ieee&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌿 Medicinal Plant Vision
-
-**Medicinal Plant Recognition & Explainability**
-
-Research using deep-learning and transformer-based models for medicinal plant identification from leaf images.
-
-The work also includes a Bangladesh-focused medicinal plant image dataset.
-
-`Computer Vision` `CNN` `ViT` `Dataset` `XAI`
-
-<br/>
-
-<a href="https://doi.org/10.17632/9tdc9gbtgb.2">
-<img src="https://img.shields.io/badge/View%20Dataset-Mendeley-A61D24?style=flat-square"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<details>
-<summary><b>Research interests</b></summary>
-
-<br/>
-
-| Area                   | Interest                                    |
-| ---------------------- | ------------------------------------------- |
-| Computer Vision        | Image and video understanding               |
-| Deep Learning          | Neural networks and representation learning |
-| Multimodal Learning    | Combining visual and language information   |
-| Explainable AI         | Understanding model predictions             |
-| Efficient ML           | Reducing computational requirements         |
-| Robotics / Embodied AI | Perception and intelligent decision-making  |
-
-</details>
-
-<br/>
-
-<div align="center">
-
-<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=7m3g1cEAAAAJ">
-<img src="https://img.shields.io/badge/Google%20Scholar-Research%20Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## `04` — Selected Projects
-
-<table>
-
-<tr>
-
-<td width="33%" valign="top">
-
-### 🧠 DeFaX
-
-**Deepfake Detection**
-
-Cross-attention based deepfake detection framework with explainability support.
-
-**Tools**
-
-`PyTorch`
-`CNN`
-`ViT`
-`Grad-CAM`
-`LIME`
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🌿 MediLeafNET
-
-**Medicinal Plant Recognition**
-
-Computer-vision research for identifying medicinal plants using deep-learning and transformer models.
-
-**Tools**
-
-`CNN`
-`Vision Transformer`
-`BERT`
-`Explainable AI`
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🩺 SkinCare AI
-
-**Computer Vision + LLM**
-
-Image-analysis system combining detection, classification, and an LLM-assisted recommendation component.
-
-**Tools**
-
-`YOLOv8`
-`ResNet50`
-`EfficientNet`
-`FastAPI`
-
-</td>
-
-</tr>
-
-</table>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/SifatSwapnil2022?tab=repositories">
-<img src="https://img.shields.io/badge/Browse%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## `05` — Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,java,cpp,c,js,react,fastapi,mysql,docker,git,vscode&perline=8" alt="Technology Stack"/>
-
-</div>
-
-<br/>
-
-<table>
-
-<tr>
-
-<td width="25%" valign="top">
-
-### ML / Vision
-
-* PyTorch
-* TensorFlow
-* Keras
-* scikit-learn
-* OpenCV
-* YOLO
-* Transformers
-
-</td>
-
-<td width="25%" valign="top">
-
-### Data
-
-* NumPy
-* Pandas
-* Matplotlib
-* Jupyter
-* Data Mining
-* Feature Engineering
-
-</td>
-
-<td width="25%" valign="top">
-
-### Engineering
-
-* FastAPI
-* REST APIs
-* React
-* Docker
-* Git
-* GitHub
-
-</td>
-
-<td width="25%" valign="top">
-
-### Languages
-
-* Python
-* C
-* C++
-* Java
-* JavaScript
-* SQL
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## `06` — ML Workflow
-
-```mermaid
-flowchart LR
-    A[Problem] --> B[Data]
-    B --> C[Baseline]
-    C --> D[Experiments]
-    D --> E[Evaluation]
-    E --> F[Failure Analysis]
-    F --> G[Explainability]
-    G --> H[Optimization]
-```
-
-For ML projects, I generally focus on:
-
-```text
-Problem Understanding
-├── Data preparation
-├── Baseline development
-├── Controlled experiments
-├── Model evaluation
-├── Error / failure analysis
-├── Explainability
-└── Optimization
-```
-
----
-
-## `07` — Experience
-
-<table>
-
-<tr>
-
-<td width="33%" valign="top">
-
-### 💻 Machine Learning Engineer
-
-**Syntax Solution Limited**
-
-Working with:
-
-* Data preprocessing
-* Feature engineering
-* Model validation
-* Performance analysis
-* Model optimization
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🔬 Research Assistant
-
-**East West University**
-
-Worked on:
-
-* Computer vision
-* Deep learning
-* Deepfake detection
-* Model evaluation
-* Research experiments
-* Academic publications
-
-</td>
-
-<td width="33%" valign="top">
-
-### 📡 IT & Operations Intern
-
-**Banglalink**
-
-Worked with:
-
-* Technical documentation
-* Reports
-* Records and assets
-* Hardware/software support
-* Basic troubleshooting
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## `08` — Education
-
-<table>
-
-<tr>
-
-<td width="18%" align="center">
-
-### 🎓
-
-**2025**
-
-</td>
-
-<td width="82%">
-
-### B.Sc. in Computer Science & Engineering
-
-**East West University**
-Dhaka, Bangladesh
-
-**Major:** Data Science and Intelligent Systems
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## `09` — Interests
-
-<div align="center">
-
-`Machine Learning`
-
-`Computer Vision`
-
-`Deep Learning`
-
-`Vision Transformers`
-
-`Multimodal AI`
-
-`Explainable AI`
-
-`Robotics`
-
-`Intelligent Systems`
-
-</div>
-
----
-
-## `10` — Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mdsifatullahsheikh">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=7m3g1cEAAAAJ">
-<img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-</a>
-
-<a href="mailto:mdsifatullahsheikh@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<sub>
-Machine Learning · Computer Vision · Deep Learning · Research
-</sub>
-
-<br/><br/>
-
-**[mdsifatullahsheikh@gmail.com](mailto:mdsifatullahsheikh@gmail.com)**
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E5533D,50:1D7A70,100:0D1117&height=110&section=footer"/>
+Email is the best way to reach me: [mdsifatullahsheikh@gmail.com](mailto:mdsifatullahsheikh@gmail.com). I am glad to hear from prospective advisers and collaborators.
