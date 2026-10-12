@@ -9,7 +9,7 @@ ML Engineer Intern at Syntax Solution Limited · Computer vision and trustworthy
 
 I am a Computer Science and Engineering graduate of East West University. My research so far is on detecting AI-generated faces and showing what the detector bases its decision on, and on identifying medicinal plants from leaf images. At work I prepare data, train and validate models on real-world datasets, and run experiments to compare them.
 
-I am applying to PhD programs for Fall 2027.
+
 
 ## Research interests
 
