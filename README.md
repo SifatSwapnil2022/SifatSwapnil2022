@@ -68,3 +68,11 @@ Major in Data Science and Intelligent Systems
 ## Contact
 
 Email is the best way to reach me: [mdsifatullahsheikh@gmail.com](mailto:mdsifatullahsheikh@gmail.com). I am glad to hear from prospective advisers and collaborators.
+
+
+## GitHub activity
+
+| Activity | Live statistics |
+|---|---|
+| **GitHub statistics** | [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SifatSwapnil2022&show_icons=true&hide_border=true)](https://github.com/SifatSwapnil2022) |
+| **Contribution streak** | [![GitHub Streak](https://streak-stats.demolab.com/?user=SifatSwapnil2022&hide_border=true)](https://github.com/SifatSwapnil2022) |
