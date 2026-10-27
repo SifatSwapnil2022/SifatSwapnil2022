@@ -58,4 +58,4 @@ Python · PyTorch · TensorFlow · scikit-learn · OpenCV · Hugging Face · Fas
 
 ---
 
-Open to PhD advisers and collaborators — [email me](mailto:mdsifatullahsheikh@gmail.com).
+Open to collaborators — [email me](mailto:mdsifatullahsheikh@gmail.com).
