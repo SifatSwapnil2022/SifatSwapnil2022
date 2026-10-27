@@ -27,7 +27,6 @@ CSE graduate of East West University. I work on deepfake detection, explainable 
 
 - **DeFaX: A Cross-Attention Fusion Framework for Robust and Explainable Deepfake Detection** — *IEEE Access*, 2025 · [Paper](https://ieeexplore.ieee.org/abstract/document/11303744)
 - **AI-Powered Deepfake Detection Using CNN and Vision Transformer Architectures** — *IEEE IBDAP*, 2025 · [Paper](https://ieeexplore.ieee.org/abstract/document/11145852)
-- **Medicinal Plant Leaf Image Dataset of 13 Species Collected in Bangladesh** — under review at *Scientific Data* · [Dataset](https://doi.org/10.17632/9tdc9gbtgb.2)
 
 ## Experience
 
